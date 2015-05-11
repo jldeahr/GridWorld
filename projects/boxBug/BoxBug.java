@@ -50,7 +50,6 @@ public class BoxBug extends Bug
         else
         {
             turn();
-            turn();
             steps = 0;
         }
     }
